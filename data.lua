@@ -1,0 +1,2 @@
+data.raw["utility-sprites"].default["indication_arrow"].scale = 0.5 * settings.startup["arrowtweaker-size"].value
+data.raw["utility-sprites"].default["indication_line"].scale = 0.5 * settings.startup["arrowtweaker-size"].value

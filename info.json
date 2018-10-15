@@ -1,0 +1,11 @@
+
+{
+	"name": "arrowtweaker",
+	"version": "0.1.0",
+	"factorio_version": "0.16",
+	"title": "Arrow Tweaker",
+	"author": "Therax",
+	"homepage": "",
+	"description": "Change the size of inserter arrows.",
+	"dependencies": []
+}
